@@ -2,10 +2,15 @@
 
 ## Table of contents
 [1. Project description](https://github.com/errlwdfi/sf_data_science/tree/main/project0/README.md#Project_description)
+
 [2. What kind of case is solving?](https://github.com/errlwdfi/sf_data_science/tree/main/project0/README.md#What_kind_of_case_are_we_solving)
+
 [3. Brief information on data](https://github.com/errlwdfi/sf_data_science/tree/main/project0/README.md#Brief_information_on_data)
+
 [4. Project work stages](https://github.com/errlwdfi/sf_data_science/tree/main/project0/README.md#Project_work_stages)
+
 [5. The result](https://github.com/errlwdfi/sf_data_science/tree/main/project0/README.md#The_result)
+
 [6. Conclusion](https://github.com/errlwdfi/sf_data_science/tree/main/project0/README.md#Conclusion)
 
 ### Project description
