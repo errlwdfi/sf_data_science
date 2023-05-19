@@ -5,14 +5,6 @@
 
 [2. What kind of case is solving?](https://github.com/errlwdfi/sf_data_science/tree/main/project0/README.md#What_kind_of_case_are_we_solving)
 
-[3. Brief information on data](https://github.com/errlwdfi/sf_data_science/tree/main/project0/README.md#Brief_information_on_data)
-
-[4. Project work stages](https://github.com/errlwdfi/sf_data_science/tree/main/project0/README.md#Project_work_stages)
-
-[5. The result](https://github.com/errlwdfi/sf_data_science/tree/main/project0/README.md#The_result)
-
-[6. Conclusion](https://github.com/errlwdfi/sf_data_science/tree/main/project0/README.md#Conclusion)
-
 ### Project description
 Predict a number made up by computer in minimum number of attempts
 
@@ -22,18 +14,16 @@ Predict a number made up by computer in minimum number of attempts
 Write a program which predicts a number in minimum number of attempts
 
 **Conditions of the competition:**
-- Computer makes up a number from 0 to 100, and we have to predict it. By "predict" it's meant "to write a program which guesses a number"
-- Algorithm considers information about whether a random number less or greater than the predicted one
+- Computer makes up a number from 1 to 100, and we have to predict it. By "predict" it's meant "to write a program which guesses a number"
+- The algorithm considers information about whether a random number less or greater than the predicted one
+- The baseline template from the screencast was presented
 
 **The quality metrics**
 
-The results are estimated by average number of attempts per 1000 tries
+The results are estimated by average number of attempts per 1000 tries. It is required to reach minimum number of attempts.
 
 **What is practising?**
 
-We are learning to write a fine code in Python
-
-### Brief information on data
-...
-
-:arrow_up:[to table of contents](https://github.com/errlwdfi/sf_data_science/tree/main/project0/README.md#Table_of_contents)
+* We are learning to write a fine code in Python
+* Learning to use IDE
+* Learning to work with Github

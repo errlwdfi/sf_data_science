@@ -28,7 +28,7 @@ bokeh @ file:///tmp/abs_34854e1f-d7d3-4f22-85d9-1075588e4ecdga64o0qg/croots/reci
 boltons @ file:///croot/boltons_1677628692245/work
 Bottleneck @ file:///opt/conda/conda-bld/bottleneck_1657175564434/work
 brotlipy==0.7.0
-certifi @ file:///croot/certifi_1671487769961/work/certifi
+certifi @ file:///croot/certifi_1683875369620/work/certifi
 cffi @ file:///croot/cffi_1670423208954/work
 chardet @ file:///home/builder/ci_310/chardet_1640804867535/work
 charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
