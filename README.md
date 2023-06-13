@@ -1,8 +1,10 @@
-# My data science projects
-From the [Skillfactory data science course](https://skillfactory.ru/data-scientist)
+# [Python 13. Data visualization. Practice.](https://github.com/errlwdfi/sf_data_science/tree/main/python13)
 
-## Projects
+## Table of contents
+[1. Project description](https://github.com/errlwdfi/sf_data_science/tree/main/python13/README.md#Task_description)
 
-* [Project 0. Game: Predict a number](https://github.com/errlwdfi/sf_data_science/tree/main/project0)
-* [Project 1. ___](___)
-* [Project 2. ___](___)
+### Task description
+Analyze the churn for the bank customers.
+
+**Details:**
+Build 10 plots as the answers to 10 tasks. Make conclusions.
