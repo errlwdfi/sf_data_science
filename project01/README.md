@@ -1,13 +1,13 @@
 # [Проект 1: Анализ резюме из HeadHunter](https://github.com/errlwdfi/sf_data_science/tree/main/project01)
 
 ## Содержание
-[1. Исследование структуры данных](https://github.com/errlwdfi/sf_data_science/tree/main/project01/README.md#Data_structure_exploration)
+[1. Исследование структуры данных](https://github.com/errlwdfi/sf_data_science/tree/main/project01/README.md#Исследование_структуры_данных)
 
-[2. Преобразование данных](https://github.com/errlwdfi/sf_data_science/tree/main/project01/README.md#Data_transformation)
+[2. Преобразование данных](https://github.com/errlwdfi/sf_data_science/tree/main/project01/README.md#Преобразование_данных)
 
-[3. Исследование зависимостей в данных](https://github.com/errlwdfi/sf_data_science/tree/main/project01/README.md#Dependancies_exploration)
+[3. Исследование зависимостей в данных](https://github.com/errlwdfi/sf_data_science/tree/main/project01/README.md#Исследование_зависимостей_в_данных)
 
-[4. Очистка данных](https://github.com/errlwdfi/sf_data_science/tree/main/project01/README.md#Data_cleaning)
+[4. Очистка данных](https://github.com/errlwdfi/sf_data_science/tree/main/project01/README.md#Очистка_данных)
 
 ### Исследование структуры данных
 
@@ -19,7 +19,7 @@
 
 * Количество пропусков в столбцах
 
-:arrow_up:[to table of contents](https://github.com/errlwdfi/sf_data_science/tree/main/python13/README.md#Table_of_contents)
+:arrow_up:[к содержанию](https://github.com/errlwdfi/sf_data_science/tree/main/python13/README.md#Содержание)
 
 ### Преобразование данных
 
@@ -37,7 +37,7 @@
 
 * Признак *ЗП (руб)*
 
-:arrow_up:[to table of contents](https://github.com/errlwdfi/sf_data_science/tree/main/project01/README.md#Table_of_contents)
+:arrow_up:[к содержанию](https://github.com/errlwdfi/sf_data_science/tree/main/python13/README.md#Содержание)
 
 ### Исследование зависимостей в данных
 
@@ -61,7 +61,7 @@
 
 * Зависимость выбора формы занятости от возраста соискателя (*Возраст*)
 
-:arrow_up:[to table of contents](https://github.com/errlwdfi/sf_data_science/tree/main/project01/README.md#Table_of_contents)
+:arrow_up:[к содержанию](https://github.com/errlwdfi/sf_data_science/tree/main/python13/README.md#Содержание)
 
 ### Очистка данных
 
@@ -77,7 +77,7 @@
 
 * Фильтрация значений в признаке *Возраст* с помощью метода $3\sigma$
 
-:arrow_up:[to table of contents](https://github.com/errlwdfi/sf_data_science/tree/main/project01/README.md#Table_of_contents)
+:arrow_up:[к содержанию](https://github.com/errlwdfi/sf_data_science/tree/main/python13/README.md#Содержание)
 
 **Цели проекта**:
 
@@ -89,4 +89,4 @@
 
 **Данные**
 
-Датасет, с которым предстоит работать, расположен по [ссылке](https://drive.google.com/file/d/1avLpixl_wSG9MaKHl_dPxIhGTLWdBoFg/view?usp=drive_link). Директория для файла: ./data/
+Датасет, с которым предстоит работать, расположен по [ссылке](https://drive.google.com/file/d/1avLpixl_wSG9MaKHl_dPxIhGTLWdBoFg/view?usp=drive_link). Директория для файла: /project01/data/
