@@ -19,7 +19,7 @@
 
 * Количество пропусков в столбцах
 
-:arrow_up:[к содержанию](https://github.com/errlwdfi/sf_data_science/tree/main/python13/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/errlwdfi/sf_data_science/tree/main/project01/README.md#Содержание)
 
 ### Преобразование данных
 
@@ -37,7 +37,7 @@
 
 * Признак *ЗП (руб)*
 
-:arrow_up:[к содержанию](https://github.com/errlwdfi/sf_data_science/tree/main/python13/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/errlwdfi/sf_data_science/tree/main/project01/README.md#Содержание)
 
 ### Исследование зависимостей в данных
 
@@ -61,7 +61,7 @@
 
 * Зависимость выбора формы занятости от возраста соискателя (*Возраст*)
 
-:arrow_up:[к содержанию](https://github.com/errlwdfi/sf_data_science/tree/main/python13/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/errlwdfi/sf_data_science/tree/main/project01/README.md#Содержание)
 
 ### Очистка данных
 
@@ -77,7 +77,7 @@
 
 * Фильтрация значений в признаке *Возраст* с помощью метода $3\sigma$
 
-:arrow_up:[к содержанию](https://github.com/errlwdfi/sf_data_science/tree/main/python13/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/errlwdfi/sf_data_science/tree/main/project01/README.md#Содержание)
 
 **Цели проекта**:
 
