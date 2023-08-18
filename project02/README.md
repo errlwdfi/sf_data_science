@@ -1,15 +1,15 @@
 # [Проект 2: Анализ вакансий из HeadHunter](https://github.com/errlwdfi/sf_data_science/tree/main/project01)
 
 ## Содержание
-[1. Предварительный анализ данных](https://github.com/errlwdfi/sf_data_science/tree/main/project01/README.md#Предварительных_анализ_данных)
+[1. Предварительный анализ данных](https://github.com/errlwdfi/sf_data_science/tree/main/project02/README.md#Предварительных_анализ_данных)
 
-[2. Детальный анализ вакансий](https://github.com/errlwdfi/sf_data_science/tree/main/project01/README.md#Детальный_анализ_вакансий)
+[2. Детальный анализ вакансий](https://github.com/errlwdfi/sf_data_science/tree/main/project02/README.md#Детальный_анализ_вакансий)
 
-[3. Анализ работодателей](https://github.com/errlwdfi/sf_data_science/tree/main/project01/README.md#Анализ_работодателей)
+[3. Анализ работодателей](https://github.com/errlwdfi/sf_data_science/tree/main/project02/README.md#Анализ_работодателей)
 
-[4. Предметный анализ](https://github.com/errlwdfi/sf_data_science/tree/main/project01/README.md#Предметный_анализ)
+[4. Предметный анализ](https://github.com/errlwdfi/sf_data_science/tree/main/project02/README.md#Предметный_анализ)
 
-[5. Общий вывод по проекту](https://github.com/errlwdfi/sf_data_science/tree/main/project01/README.md#Общий_вывод_по_проекту)
+[5. Общий вывод по проекту](https://github.com/errlwdfi/sf_data_science/tree/main/project02/README.md#Общий_вывод_по_проекту)
 
 ### Предварительный анализ данных
 
@@ -97,13 +97,13 @@
 
 * Заключение по результатам нескольких исследований.
 
-**Данные**
+#### Данные
 
 Все необходимые таблицы находятся в схеме *public* базы данных *project_sql*. Параметры подключения к базе данных описаны в файле *config.txt*, путь к которому: /project02/config.txt
 
 ![Иллюстрация схемы](./images/scheme.png)
 
-1. Vacancies
+**Vacancies**
 
 Таблица хранит в себе данные по вакансиям и содержит следующие столбцы:
 
@@ -127,7 +127,7 @@
 
 * employer_id - id работодателя
 
-2. Employers
+**Employers**
 
 Таблица-справочник со списком работодателей:
 
@@ -137,7 +137,7 @@
 
 * area - id региона регистрации
 
-3. Areas
+**Areas**
 
 Таблица-справочник, которая хранит код региона и его название:
 
@@ -145,7 +145,7 @@
 
 * name - название региона
 
-4. Industries
+**Industries**
 
 Таблица-справочник вариантов сфер деятельности работодателей:
 
@@ -153,7 +153,7 @@
 
 * name - название сферы деятельности
 
-5. Employers - Industries
+**Employers - Industries**
 
 Дополнительная таблица, которая существует для организации связи между работодателями и сферами их деятельности:
 
