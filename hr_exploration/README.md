@@ -1,4 +1,4 @@
-# [HR-agency data exploration](https://github.com/errlwdfi/sf_data_science/tree/main/hr_exploration)
+# [HR agency data exploration](https://github.com/errlwdfi/sf_data_science/tree/main/hr_exploration)
 
 ## Contents
 [1. Data download and initial operations](https://github.com/errlwdfi/sf_data_science/tree/main/hr_exploration/README.md#Data_download_and_initial_operations)
@@ -15,7 +15,7 @@
 
 ### Download data and initial operations
 
-* Data downloading.
+* Download data.
 
 * Locate nan values and remove duplicates.
 
@@ -43,7 +43,7 @@
 
 * Choose stasistical test for each hypothesis and make preliminary checks if necessary.
 
-### HR-agency key questions
+### HR agency key questions
 
 * Do Data Scientists have annual salary growth?
 
@@ -93,7 +93,7 @@ All necessary data contained in */hr_exploration/data/ds_salaries.csv*.
 
 * job_title - a job where person worked during a year
 
-* salary - salary paid overall
+* salary - gross salary paid
 
 * salary_currency - salary currency in ISO4217
 
