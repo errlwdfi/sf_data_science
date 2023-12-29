@@ -26,3 +26,7 @@
 * Learn how to log model parameters to Comet.ml.
 
 * Learn how to log metrics to Comet.ml.
+
+#### Data
+
+All necessary data contained in */comet_intro/data/KaggleV2-May-2016.csv*.
