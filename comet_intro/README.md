@@ -30,3 +30,7 @@
 #### Data
 
 All necessary data contained in */comet_intro/data/KaggleV2-May-2016.csv*.
+
+#### Experiment
+
+[Comet.ml experiment](https://www.comet.com/pime-tuletorn/medical-appointment)
