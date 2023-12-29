@@ -19,10 +19,10 @@
 
 **Goals of the project**:
 
-    * Learn how to handle Comet.ml via notebook.
+* Learn how to handle Comet.ml via notebook.
 
-    * Learn how to log figures to Comet.ml.
+* Learn how to log figures to Comet.ml.
 
-    * Learn how to log model parameters to Comet.ml.
+* Learn how to log model parameters to Comet.ml.
 
-    * Learn how to log metrics to Comet.ml.
+* Learn how to log metrics to Comet.ml.
