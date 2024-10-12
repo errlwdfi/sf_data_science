@@ -1,28 +1,28 @@
-# [Optimization of linear regression loss function. Numeric methods.](https://github.com/errlwdfi/sf_data_science/tree/main/optimization_methods)
+# [Text classification using Naive Bayes Classifier.](https://github.com/errlwdfi/sf_data_science/tree/main/bayes)
 
 ## Table of contents
-[1. Data upload and preparation](https://github.com/errlwdfi/sf_data_science/tree/main/optimization_methods/README.md#Data_upload_and_preparation)
+[1. Data upload and preparation](https://github.com/errlwdfi/sf_data_science/tree/main/bayes/README.md#Data_upload_and_preparation)
 
-[2. Coordinate descent](https://github.com/errlwdfi/sf_data_science/tree/main/optimization_methods/README.md#Coordinate_descent)
+[2. Data vectorizing](https://github.com/errlwdfi/sf_data_science/tree/main/bayes/README.md#Data_vectorizing)
 
-[3. Stohastic gradient descent](https://github.com/errlwdfi/sf_data_science/tree/main/optimization_methods/README.md#Stohastic_gradient_descent)
+[3. Data stratification](https://github.com/errlwdfi/sf_data_science/tree/main/bayes/README.md#Data_stratification)
+
+[4. Naive Bayes implementation](https://github.com/errlwdfi/sf_data_science/tree/main/bayes/README.md#Naive_Bayes_implementation)
+
+[5. Hyperparameter optimization](https://github.com/errlwdfi/sf_data_science/tree/main/bayes/README.md#Hyperparameter_optimization)
 
 **Goals of the project**:
 
-* Implement coordinate descent algorithm.
+* Read and prepare the data.
 
-* Implement stohastic descent algorithm.
+* Implement Naive Bayes Classifier with $alpha = 0.1$.
 
-* Compare results of two models with OLS and make a conclusion.
+* Explore the dependance of the algorithm's metrics on hyperparameter value.
 
 ## Data
 
 Feature description:
 
-* *TV* - costs on TV advertising.
+* *email* - text of the message.
 
-* *radio* - costs on radio advertising.
-
-* *newspaper* - costs on newspaper advertising.
-
-* *sales* - sales.
+* *label* - target feature. Determines whether a message is spam or not.
