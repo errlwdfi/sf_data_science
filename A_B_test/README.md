@@ -47,7 +47,7 @@ Feature description:
 
 $$p = \mu = X_p \pm z_{crit} \cdot \sqrt{\frac{X_p (1 - X_p)}{n}}$$,
 
-$$z_crit \in N(0, 1)$$,
+$$z_{crit} \in N(0, 1)$$,
 
 where $\mu$ - true mean value, $X_p$ - sample mean, $n$ - sample size, $N(0, 1)$ - normal distribution with zero mean value and stardard deviation of $1$.
 
@@ -55,7 +55,7 @@ where $\mu$ - true mean value, $X_p$ - sample mean, $n$ - sample size, $N(0, 1)$
 
 $$\Delta p = \Delta X_p \pm z_{crit} \cdot \sqrt{\frac{X_{p_a}(1 - X_{p_a})}{n_a} + \frac{X_{p_b}(1 - X_{p_b})}{n_b}}$$, 
 
-$$z_crit \in N(0, 1)$$,
+$$z_{crit} \in N(0, 1)$$,
 
 where $\Delta X_p = X_{p_b} - X_{p_a}$, $X_{p_a}$ - sample A mean, $X_{p_b}$ - sample B mean, $n_a$ - sample A size, $n_b$ - sample B size.
 
