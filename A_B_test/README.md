@@ -45,24 +45,24 @@ Feature description:
 
 *Confidence interval for proportion*:
 
-$ p = \mu = X_p \pm z_{crit} \cdot \sqrt{\frac{X_p (1 - X_p)}{n}} $,
+$$p = \mu = X_p \pm z_{crit} \cdot \sqrt{\frac{X_p (1 - X_p)}{n}}$$,
 
-$ z_crit \in N(0, 1) $,
+$$z_crit \in N(0, 1)$$,
 
 where $\mu$ - true mean value, $X_p$ - sample mean, $n$ - sample size, $N(0, 1)$ - normal distribution with zero mean value and stardard deviation of $1$.
 
 *Confidence interval for proportion difference*:
 
-$ \Delta p = \Delta X_p \pm z_{crit} \cdot \sqrt{\frac{X_{p_a}(1 - X_{p_a})}{n_a} + \frac{X_{p_b}(1 - X_{p_b})}{n_b}} $, 
+$$\Delta p = \Delta X_p \pm z_{crit} \cdot \sqrt{\frac{X_{p_a}(1 - X_{p_a})}{n_a} + \frac{X_{p_b}(1 - X_{p_b})}{n_b}}$$, 
 
-$ z_crit \in N(0, 1) $,
+$$z_crit \in N(0, 1)$$,
 
-where $ \Delta X_p = X_{p_b} - X_{p_a} $, $X_{p_a}$ - sample A mean, $X_{p_b}$ - sample B mean, $n_a$ - sample A size, $n_b$ - sample B size.
+where $\Delta X_p = X_{p_b} - X_{p_a}$, $X_{p_a}$ - sample A mean, $X_{p_b}$ - sample B mean, $n_a$ - sample A size, $n_b$ - sample B size.
 
 *Confidence interval when true standard deviation is unknown*:
 
-$\mu = X_{mean} \pm t_{crit} \cdot \frac{X_{std}}{\sqrt{n}}$,
+$$\mu = X_{mean} \pm t_{crit} \cdot \frac{X_{std}}{\sqrt{n}}$$,
 
-$ t_{crit} = t_{\frac{1-\gamma}{2}} \in T(n-1)$,
+$$t_{crit} = t_{\frac{1-\gamma}{2}} \in T(n-1)$$,
 
 where $X_{mean}$ - sample mean, $\gamma$ - confidence level, $X_{std}$ - sample standard deviation, $n$ - sample size, $T(n - 1)$ - T-distribution with $n - 1$ degrees of freedom.
